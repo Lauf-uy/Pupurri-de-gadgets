@@ -15,3 +15,6 @@ https://medium.com/data-hackers/web-scraping-com-python-para-pregui%C3%A7osos-un
 ## Git inspo proyects
 
 https://github.com/fredtaranto/data_science/blob/master/Analisando_os_Dados_do_Airbnb.ipynb
+
+## Gitubers que tienen cosas útiles 
+https://github.com/durgeshsamariya #lista de reads me para perfiles
