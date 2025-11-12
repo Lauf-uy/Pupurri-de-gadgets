@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C928%20hrs%2028%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue) #supuestamente te hace un grafico, hay que configurar
 
 **🐱 My GitHub Data** 
 
@@ -82,3 +82,4 @@ Jupyter Notebook         18 repos            ████░░░░░░░�
 C++                      13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
 JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
 HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
+
