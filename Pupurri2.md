@@ -2,8 +2,11 @@
 
 - 😄 🔭 🌱 👯 💬🌍 💜 ⚡
 
+## imagenes random
 
-## Ejuemplos 
+<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" top="250" height="135" width="200" title="CatCat" alt="CatCat">
+
+## Ejemplos de graficos
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C928%20hrs%2028%20mins-blue)
@@ -82,4 +85,6 @@ Jupyter Notebook         18 repos            ████░░░░░░░�
 C++                      13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
 JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
 HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
+
+
 
