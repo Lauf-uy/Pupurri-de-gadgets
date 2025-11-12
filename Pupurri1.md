@@ -11,3 +11,7 @@ https://www.youtube.com/watch?v=PXADC_SaiM4
 ## Medium inspo proyects
 
 https://medium.com/data-hackers/web-scraping-com-python-para-pregui%C3%A7osos-unindo-beautifulsoup-e-selenium-parte-1-9677fc5e2385
+
+## Git inspo proyects
+
+https://github.com/fredtaranto/data_science/blob/master/Analisando_os_Dados_do_Airbnb.ipynb
